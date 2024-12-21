@@ -8,6 +8,7 @@
   
 
 feedforward neural network architecture
-https://media.geeksforgeeks.org/wp-content/uploads/20240601001059/FNN.jpg 
+![Uploading image.png…]()
+
 
 
