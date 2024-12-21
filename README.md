@@ -8,7 +8,7 @@
   
 
 feedforward neural network architecture
-![Uploading image.png…]()
+![FNN](https://github.com/user-attachments/assets/29da4cf4-d78b-40fc-9fb4-854d81c96b6f)
 
 
 
