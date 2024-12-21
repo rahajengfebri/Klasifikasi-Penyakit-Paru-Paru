@@ -30,7 +30,7 @@ Klasifikasi 0 : Tidak
 
 Klasifikasi 1 : Ya
 
-#### Random Forest
+### Random Forest
 #### Preprocessing
 Untuk Preprocessing sama seperti yang digunakan model Feedforward Neural Network. Melibatkan beberapa langkah penting untuk menyiapkan dataset agar siap digunakan dalam model machine learning. Langkah pertama adalah pengecekan missing value, yang bertujuan untuk mengidentifikasi dan menangani data yang kosong. Setelah itu, dilakukan encoding label menggunakan LabelEncoder untuk mengubah data kategori menjadi numerik, sehingga model dapat memprosesnya. Selanjutnya, normalisasi dilakukan menggunakan MinMaxScaler, yang menskalakan data numerik ke rentang [0, 1], untuk menghindari bias akibat perbedaan skala antar fitur. Terakhir, data dibagi menjadi dua bagian, yaitu 80% untuk pelatihan dan 20% untuk pengujian.
 
