@@ -7,5 +7,7 @@
   Proyek ini menggunakan dataset dari Kaggle (https://www.kaggle.com/datasets/andot03bsrc/dataset-predic-terkena-penyakit-paruparu), yang terdiri dari 30.000 data. Dengan memanfaatkan model prediksi seperti Artificial Neural Network (ANN) dan Random Forest, analisis data dapat dilakukan dengan lebih cepat dan akurat. Proyek ini bertujuan untuk memprediksi apakah seseorang berisiko menderita penyakit paru-paru berdasarkan data pribadi yang diisikan, sehingga dapat mendukung upaya pencegahan dan pengambilan langkah awal dalam menjaga kesehatan.
   
 
+feedforward neural network architecture
+https://media.geeksforgeeks.org/wp-content/uploads/20240601001059/FNN.jpg 
 
 
