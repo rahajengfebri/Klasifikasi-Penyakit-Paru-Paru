@@ -27,6 +27,7 @@ Preprocessing data melibatkan beberapa langkah penting untuk menyiapkan dataset 
 #### Confusion Matrix
 ![Screenshot 2024-12-21 092551](https://github.com/user-attachments/assets/aac290f2-a49a-477d-be4b-9b75b46f082e)
 Klasifikasi 0 : Tidak
+
 Klasifikasi 1 : Ya
 
 #### Random Forest
@@ -38,7 +39,9 @@ Untuk Preprocessing sama seperti yang digunakan model Feedforward Neural Network
 
 #### Confusion Matrix
 ![Screenshot 2024-12-21 093453](https://github.com/user-attachments/assets/32cf96dc-b739-48e7-aa21-095acad05449)
+Klasifikasi 0 : Tidak
 
+Klasifikasi 1 : Ya
 
 
 
