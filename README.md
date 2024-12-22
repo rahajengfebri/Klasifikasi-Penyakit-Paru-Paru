@@ -1,3 +1,9 @@
+Nama : Rahajeng Febri Shafiyah
+
+NIM : 202110370311308
+
+Machine Learning A
+
 # Klasifikasi Penyakit Paru-Paru
   Penyakit paru-paru merupakan salah satu masalah kesehatan yang umum terjadi, dipengaruhi oleh berbagai faktor seperti kebiasaan merokok, kurangnya aktivitas fisik, dan gaya hidup yang tidak sehat. Deteksi dini terhadap risiko penyakit paru-paru sangat penting untuk mencegah komplikasi serius serta meningkatkan kualitas hidup seseorang. Namun, proses diagnosis awal sering kali membutuhkan pemeriksaan medis yang memakan waktu dan biaya. Dengan kemajuan teknologi, khususnya di bidang kecerdasan buatan (Artificial Intelligence), pengembangan aplikasi prediksi risiko penyakit paru-paru menjadi solusi yang dapat membantu masyarakat dan tenaga medis. Aplikasi berbasis AI ini dirancang untuk memberikan gambaran awal mengenai potensi risiko penyakit paru-paru berdasarkan data pribadi, seperti usia, jenis kelamin, kebiasaan merokok, dan riwayat kesehatan.
   
